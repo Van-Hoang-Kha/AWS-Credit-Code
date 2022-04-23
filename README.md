@@ -32,4 +32,4 @@
 
 5. Chọn **See complete list of services** để xem danh sách các dịch vụ và sau đó chọn **OK**
 
-![Credit Code](/images/0005-creditcode.png)
+![Credit Code](/images/0005-creditcode.png) 
