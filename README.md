@@ -5,7 +5,9 @@
 - Tìm **Billing**
 - Chọn **Billing**
 
+
 ![Credit Code](/images/0001-creditcode.png)
+
 
 2. Trong giao diện **Billing**
 
@@ -13,6 +15,7 @@
 - Chọn **Redeem credit**
 
 ![Credit Code](/images/0002-creditcode.png)
+
 
 3. Trong giao diện **Redeem credit**
 
@@ -23,12 +26,14 @@
 ![Credit Code](/images/0003-creditcode.png)
 
 
+
 4. Sau khi chọn **Redeem credit**
 
 - Kiểm tra lại **Amount remaining** xem giá trị của credit. Ví dụ: **25$**
 - Kiểm tra lại **Expiration date** để tránh hết hạn sử dụng credit dẫn đến tiêu tốn chi phí cá nhân hoặc tổ chức
 
 ![Credit Code](/images/0004-creditcode.png)
+
 
 5. Chọn **See complete list of services** để xem danh sách các dịch vụ và sau đó chọn **OK**
 
